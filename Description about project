@@ -1,3 +1,11 @@
 I am happy to share insights with my first Power BI dashboard!
 Analyzing Superstore sales and profit data like never before - from raw dataset to decision making Visuals.
 I got this data set from Kaggle and working with this data by using various types of Power BI Visuals like: Stacked Bar Chart, Donut Chart, Pie Chart, Matrix, Line Chart, Card, Slicer and many More.
+Clustured Bar Chart - Segment V/s Profit & Sales;
+Donut Chart - Profit V/s Category;
+Pie Chart - Profit V/s Region;
+Pie Chart - Sales V/s Region;
+Line Chart - Profit and Sales V/s Year and Quarter;
+Matrix - Region Vs Sub Category Vs Sum of Profit Vs Sum of Sales;
+Card - Sum of Sales, Sum of Discount, Sum of Profit and Sum of Quantity;
+Slicer - By State and By region;
